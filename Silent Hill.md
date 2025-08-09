@@ -5,3 +5,8 @@
 [[Silent Hill 2 Remake]]
 [[Silent Hill 3]]
 [[Silent Hill - Shattered Memories]]
+[[Silent Hill - The Short Message]]
+
+משחק עכשיו:
+[[Silent Hill 2 Director's Cut]]
+ 
