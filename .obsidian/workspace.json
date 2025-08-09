@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "45f616784d838393",
+    "type": "split",
+    "children": [
+      {
+        "id": "324f5040fb0ff5c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e01afbfe25bdaa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ניהול.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ניהול"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e782689c48e49a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "165a34a6184c3693",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "677862776791da49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33c283c58482a004",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02717bc5b8e705b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f7743666a803115",
+    "type": "split",
+    "children": [
+      {
+        "id": "654ab413b1f53063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73a8c47287d03b56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ניהול.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ניהול"
+            }
+          },
+          {
+            "id": "c24c45ef8980568d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ניהול.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ניהול"
+            }
+          },
+          {
+            "id": "9f6d815eb4987a36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "236a4a6485e65e49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ניהול.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ניהול"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5e01afbfe25bdaa6",
+  "lastOpenFiles": [
+    "ניהול.md",
+    "אלוהים.md",
+    "חידות.md",
+    "אלימות.md",
+    "אבא.md",
+    "מונולוג פנימי.md",
+    "חולית.md",
+    "פול אטרידיס.md",
+    "המוסד.md",
+    "ספרות.md",
+    "אמנות.md",
+    "משחקי וידיאו.md",
+    "אימה-השרדות.md",
+    "אימה.md",
+    "זכרון.md",
+    "אוטוסרדה.md",
+    "לופים.md",
+    "גמילה.md",
+    "Tank Controls.md",
+    "יהדות.md",
+    "השפעות רעות.md",
+    "עבודה.md",
+    "9-5.md",
+    "נורמטיביות.md",
+    "תפילת השלווה.md",
+    "קפיצת הדרך.md",
+    "Untitled"
+  ]
+}
