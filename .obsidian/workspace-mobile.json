@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "58062900a96f9ea5",
+        "id": "bc466c52571bce23",
         "type": "tabs",
         "children": [
           {
-            "id": "4aba30aabb6efeec",
+            "id": "e3ff904071a46b61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "אימה-השרדות.md",
+                "file": "מסע הגיבור.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "אימה-השרדות"
+              "title": "מסע הגיבור"
+            }
+          },
+          {
+            "id": "0c16ed6203ba8b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "הקוסם מארץ עוץ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "הקוסם מארץ עוץ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "אימה-השרדות.md",
+            "file": "הקוסם מארץ עוץ.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,6 +154,46 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "661d95a63845cd4a",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "ac74d8c8c91141e8",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "cff6c9f211450704",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "d2624d56c30cf750",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
       }
     ],
     "currentTab": 0
@@ -153,8 +208,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4aba30aabb6efeec",
+  "active": "0c16ed6203ba8b91",
   "lastOpenFiles": [
+    "Silent Hill 1.md",
+    "הקוסם מארץ עוץ.md",
+    "מסע הגיבור.md",
+    "המנטור.md",
+    "המפגש עם הנביא.md",
+    "עולם הנסתר.md",
+    "Occult.md",
+    "Silent Hill.md",
+    "חידות.md",
+    "אימה-השרדות.md",
+    "הנאה.md",
+    "ייסורים.md",
+    "הדיסוננס שלי.md",
+    "מחויבות לעבודה.md",
+    "אוונגליון.md",
+    "פסיכולוגיה.md",
+    "Tank Controls.md",
+    "מד\"ב.md",
+    "כוח עליון.md",
+    "בדידות.md",
+    "יחסי אהבה-שנאה.md",
+    "מחשבים.md",
+    "Liminal Spaces.md",
+    "מכירות.md",
     "Resident Evil.md"
   ]
 }
