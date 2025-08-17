@@ -11,10 +11,14 @@
             "id": "246fa94e134d4634",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-08-17.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-08-17"
             }
           }
         ]
@@ -187,6 +191,7 @@
   },
   "active": "246fa94e134d4634",
   "lastOpenFiles": [
+    "2025-08-17.md",
     "תסריט.md",
     "הדיסוננס שלי.md",
     "שלב ה״קורבן״.md",
@@ -212,7 +217,6 @@
     "Tank Controls.md",
     "אוטוסרדה.md",
     "עבודה.md",
-    "כוח עליון.md",
     "Archive.zip",
     "Untitled"
   ]
