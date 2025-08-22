@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f535204e357d1405",
+        "id": "832e5d78174f339f",
         "type": "tabs",
         "children": [
           {
-            "id": "63ec6c71fbd8efee",
+            "id": "6d12948916dd8a24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "קארל יונג.md",
+                "file": "התייאשתי.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "קארל יונג"
-            }
-          },
-          {
-            "id": "b0dd02c805719583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni-Vibe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uni-Vibe"
-            }
-          },
-          {
-            "id": "55ea7f6c7d0cffc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ארקנה.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ארקנה"
-            }
-          },
-          {
-            "id": "4e30329b6765074f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ציטוטים.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ציטוטים"
-            }
-          },
-          {
-            "id": "fdffaecefa46c079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-08-17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-17"
-            }
-          },
-          {
-            "id": "5993f6c85889a2d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overthinking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overthinking"
+              "title": "התייאשתי"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ת׳אלס.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -217,8 +145,8 @@
         "state": {
           "type": "juggl_nodes",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "juggl_nodes"
         }
       },
       {
@@ -227,8 +155,8 @@
         "state": {
           "type": "juggl_style",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "juggl_style"
         }
       },
       {
@@ -237,8 +165,8 @@
         "state": {
           "type": "juggl_nodes",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "juggl_nodes"
         }
       },
       {
@@ -247,8 +175,8 @@
         "state": {
           "type": "juggl_style",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "juggl_style"
         }
       }
     ],
@@ -256,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -264,33 +193,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5993f6c85889a2d3",
+  "active": "6d12948916dd8a24",
   "lastOpenFiles": [
-    "אבא.md",
-    "Overthinking.md",
-    "התמכרות.md",
+    "לא רלוונטי.md",
+    "התייאשתי.md",
+    "כניסה הביתה.md",
+    "מכחיש פניה.md",
+    "תסריט.md",
+    "Untitled.md",
+    "2025-08-20.md",
+    "קארל יונג.md",
+    "Uni-Vibe.md",
+    "ארקנה.md",
+    "ציטוטים.md",
     "2025-08-17.md",
+    "Overthinking.md",
+    "2025-18-08.md",
+    "2025-08-19.md",
+    "עריצה היא הלבנה סיום קריאה.pdf",
+    "shall not fear.md",
+    "אבא.md",
+    "התמכרות.md",
     "ברייקור.md",
     "ת׳אלס.md",
     "Untitl.md",
-    "ציטוטים.md",
     "ONLY THOSE WITH A WILL TO LIVE GET TO SURVIVE.md",
-    "ארקנה.md",
     "עולם הנסתר.md",
     "Pink Floyd.md",
     "Progressive Rock.md",
-    "ז׳אנרים.md",
-    "Synthwave.md",
-    "מוזיקה.md",
-    "Uni-Vibe.md",
-    "Dark Side Of The Moon.md",
-    "קארל יונג.md",
-    "פילוסופיה.md",
-    "אמנות.md",
-    "משמעות.md",
-    "סיגריות.md",
-    "גמילה.md",
-    "תפילת השלווה.md",
-    "חידות.md"
+    "ז׳אנרים.md"
   ]
 }
