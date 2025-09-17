@@ -6,7 +6,7 @@
 [[Silent Hill 3]]
 [[Silent Hill - Shattered Memories]]
 [[Silent Hill - The Short Message]]
+[[Silent Hill 2 Director's Cut]]
 
 משחק עכשיו:
-[[Silent Hill 2 Director's Cut]]
- 
+[[Silent Hill - Origins]]

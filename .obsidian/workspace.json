@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "כוח עליון.md",
+                "file": "Liminal Spaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "כוח עליון"
-            }
-          },
-          {
-            "id": "87bfe3011b58a62f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expedition to mars Mixtape.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Expedition to mars Mixtape"
+              "title": "Liminal Spaces"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +190,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87bfe3011b58a62f",
+  "active": "749fbf60b9332760",
   "lastOpenFiles": [
     "12 הצעדים.md",
     "כוח עליון.md",
+    "Silent Hill - Origins.md",
+    "Silent Hill.md",
+    "Silent Hill 1.md",
+    "Resident Evil.md",
+    "Progressive Rock.md",
+    "shall not fear.md",
+    "Overthinking.md",
+    "Expedition to mars Mixtape.md",
     "אלוהים.md",
     "אוונגליון.md",
     "Uni-Vibe.md",
@@ -219,22 +212,14 @@
     "מונולוג פנימי.md",
     "משמעות.md",
     "משחקי וידיאו.md",
-    "Progressive Rock.md",
-    "Silent Hill.md",
     "אני לא מעוניין לשלם לחינם/מה יקרה אם לא תשיגו לי הלוואה.md",
     "אין איך לשלם/ אין כסף.md",
     "2025-08-16.md",
     "2025-08-17.md",
     "לקוח טוב- יצירת משא ומתן או תיק ללא תשלום מראש באישור ירון.md",
     "התנגדות בשלב אישור הווטסאפ.md",
-    "סגירת עסקה.md",
-    "יקר לו.md",
-    "בעבר עשה ללא עלות/ הוצע ללא עלות.md",
     "בעבר עשה ללא עלות",
-    "שילם בעבר ולא קיבל/ מפחד מעקיצה.md",
     "שילם בעבר ולא קיבל",
-    "קיבל הצעה מחברת ליווי ללא תשלום מראש.md",
-    "לא מאמין בלשלם מראש.md",
     "אין איך לשלם",
     "אני לא מעוניין לשלם לחינם",
     "התחרט",
