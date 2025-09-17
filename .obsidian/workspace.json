@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "40986700c427f601",
+        "id": "07fd694e95ce800d",
         "type": "tabs",
         "children": [
           {
-            "id": "eb3c7fcc7badc2ec",
+            "id": "749fbf60b9332760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "תסריט.md",
+                "file": "כוח עליון.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "תסריט"
+              "title": "כוח עליון"
+            }
+          },
+          {
+            "id": "87bfe3011b58a62f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 הצעדים.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 הצעדים"
             }
           }
         ]
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f7743666a803115",
@@ -190,36 +203,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb3c7fcc7badc2ec",
+  "active": "749fbf60b9332760",
   "lastOpenFiles": [
+    "אלוהים.md",
+    "אוונגליון.md",
+    "Uni-Vibe.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "מחויבות לעבודה.md",
     "Untitl.md",
-    "צעד קדימה.md",
-    "שבירת תסריט.md",
-    "תשאול ראשוני.md",
-    "כניסה הביתה.md",
-    "תסריט.md",
-    "פרטי  אשראי.md",
-    "חוסר שיתוף פעולה בתשאול.md",
-    "קיבל את הכסף.md",
-    "התחרט/ החליט לא לקחת הלוואה.md",
-    "התחרט",
-    "יצר הרע.md",
-    "Liminal Spaces.md",
-    "ONLY THOSE WITH A WILL TO LIVE GET TO SURVIVE.md",
-    "עריצה היא הלבנה סיום קריאה.pdf",
-    "9-5.md",
-    "Expedition to mars Mixtape.md",
+    "מונולוג פנימי.md",
+    "משמעות.md",
+    "משחקי וידיאו.md",
+    "Progressive Rock.md",
+    "Silent Hill.md",
+    "אני לא מעוניין לשלם לחינם/מה יקרה אם לא תשיגו לי הלוואה.md",
+    "אין איך לשלם/ אין כסף.md",
+    "12 הצעדים.md",
     "2025-08-16.md",
     "2025-08-17.md",
-    "2025-08-19.md",
-    "2025-18-08.md",
-    "קארל יונג.md",
-    "2025-.md",
-    "Untitled.md",
-    "קפיצת הדרך.md",
-    "רגיל.md",
-    "עבודה.md",
-    "תפעול.md",
+    "לקוח טוב- יצירת משא ומתן או תיק ללא תשלום מראש באישור ירון.md",
+    "התנגדות בשלב אישור הווטסאפ.md",
+    "סגירת עסקה.md",
+    "יקר לו.md",
+    "בעבר עשה ללא עלות/ הוצע ללא עלות.md",
+    "בעבר עשה ללא עלות",
+    "שילם בעבר ולא קיבל/ מפחד מעקיצה.md",
+    "שילם בעבר ולא קיבל",
+    "קיבל הצעה מחברת ליווי ללא תשלום מראש.md",
+    "לא מאמין בלשלם מראש.md",
+    "אין איך לשלם",
+    "חזרה לשלב עירור צורך והעצמתו באמצעות שאלות.md",
+    "אני לא מעוניין לשלם לחינם",
+    "התחרט",
+    "עריצה היא הלבנה סיום קריאה.pdf",
     "Archive.zip",
     "Untitled"
   ]
