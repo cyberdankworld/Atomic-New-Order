@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "המיתוס של סיזיפוס.md",
+                "file": "התאבדות.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "המיתוס של סיזיפוס"
+              "title": "התאבדות"
             }
           }
         ]
@@ -186,11 +186,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "749fbf60b9332760",
   "lastOpenFiles": [
+    "המיתוס של סיזיפוס.md",
+    "התאבדות.md",
     "Liminal Spaces.md",
     "12 הצעדים.md",
     "כוח עליון.md",
@@ -215,8 +218,6 @@
     "אני לא מעוניין לשלם לחינם/מה יקרה אם לא תשיגו לי הלוואה.md",
     "אין איך לשלם/ אין כסף.md",
     "2025-08-16.md",
-    "2025-08-17.md",
-    "לקוח טוב- יצירת משא ומתן או תיק ללא תשלום מראש באישור ירון.md",
     "בעבר עשה ללא עלות",
     "שילם בעבר ולא קיבל",
     "אין איך לשלם",
