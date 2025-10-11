@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "מסע הגיבור"
             }
+          },
+          {
+            "id": "bc48e50e1c81a98d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19d4a6cd7f2c0b67",
+  "active": "bc48e50e1c81a98d",
   "lastOpenFiles": [
     "מסע.md",
     "מסע הגיבור.md",
